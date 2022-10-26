@@ -1,0 +1,23 @@
+.botton {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    margin-left: 2px;
+    transition: 0.6s;
+}
+
+.botton:hover {
+    padding: 10px;
+    background-color: ##343434;
+    transition: 0.6s;
+}
+
+.botton:active {
+    background-color: #555;
+    transition: 0.4s;
+}
+
+.radio {
+    display: block;
+}
